@@ -1,0 +1,15 @@
+C:\Users\ragim\OneDrive\İş masası\Test\bin\Debug\net6.0\Test.exe
+C:\Users\ragim\OneDrive\İş masası\Test\bin\Debug\net6.0\Test.deps.json
+C:\Users\ragim\OneDrive\İş masası\Test\bin\Debug\net6.0\Test.runtimeconfig.json
+C:\Users\ragim\OneDrive\İş masası\Test\bin\Debug\net6.0\Test.dll
+C:\Users\ragim\OneDrive\İş masası\Test\bin\Debug\net6.0\Test.pdb
+C:\Users\ragim\OneDrive\İş masası\Test\obj\Debug\net6.0\Test.csproj.AssemblyReference.cache
+C:\Users\ragim\OneDrive\İş masası\Test\obj\Debug\net6.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ragim\OneDrive\İş masası\Test\obj\Debug\net6.0\Test.AssemblyInfoInputs.cache
+C:\Users\ragim\OneDrive\İş masası\Test\obj\Debug\net6.0\Test.AssemblyInfo.cs
+C:\Users\ragim\OneDrive\İş masası\Test\obj\Debug\net6.0\Test.csproj.CoreCompileInputs.cache
+C:\Users\ragim\OneDrive\İş masası\Test\obj\Debug\net6.0\Test.dll
+C:\Users\ragim\OneDrive\İş masası\Test\obj\Debug\net6.0\refint\Test.dll
+C:\Users\ragim\OneDrive\İş masası\Test\obj\Debug\net6.0\Test.pdb
+C:\Users\ragim\OneDrive\İş masası\Test\obj\Debug\net6.0\Test.genruntimeconfig.cache
+C:\Users\ragim\OneDrive\İş masası\Test\obj\Debug\net6.0\ref\Test.dll
